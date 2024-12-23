@@ -1,0 +1,11 @@
+EmployeeID,Name,Email,Department,JoiningDate
+1,John Doe,john.doe@example.com,Engineering,2020-06-15
+2,Alice Smith,alice.smith@example.com,Marketing,2021-03-10
+3,Bob Johnson,bob.johnson@example.com,Engineering,2019-11-01
+4,Charlie Brown,charlie.brown@example.com,Sales,2022-01-25
+5,Diana Green,diana.green@example.com,HR,2021-07-08
+6,Emma White,emma.white@example.com,Marketing,2023-09-19
+7,Frank Black,frank.black@example.com,Engineering,2021-12-12
+8,Grace Lee,grace.lee@example.com,Sales,2022-03-03
+9,Hannah Gray,hannah.gray@example.com,HR,2020-10-18
+10,Isaac Blue,isaac.blue@example.com,Engineering,2023-05-05
